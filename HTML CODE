@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="date.png">
+
+    </head>
+    <body bgcolor="black" style="color: white;">
+        <Center>
+            <h1>upcoming events🗓️</h1>
+            <p>dont miss important event</p>
+        </Center>
+        <hr>
+        <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque placeat illo optio beatae eveniet dolorem facere quod pariatur nostrum ratione tenetur, cumque recusandae blanditiis deserunt necessitatibus quia magni sit vel minus maiores adipisci. Nostrum, vel ab consequuntur perferendis, eveniet blanditiis unde recusandae, officia corrupti quod autem corporis voluptate molestias laboriosam iste tempore tenetur! Explicabo quis illum asperiores error tempore iste voluptatum quaerat quo officiis, perferendis eaque laborum vitae quasi excepturi recusandae enim inventore atque nesciunt vel! Assumenda, velit eum doloremque quia ad est culpa alias quam laboriosam, tempora quas ipsam, repellendus possimus facilis. Possimus, animi autem ut culpa debitis id.
+        </p>
+        <center>
+        <img src="event1.png">
+        <h1>photo gallery</h1>
+        <h2> fee entry! free food! pets allowed</h2>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus consequuntur a minima vel veniam tempore dolore illum neque omnis saepe numquam cumque esse temporibus sunt nulla quis fugiat, adipisci in excepturi. Iure labore debitis dolor cum corrupti magni perspiciatis laudantium doloribus placeat officia iste, esse aspernatur nostrum quibusdam qui tenetur!
+         </center>
+         <center>
+        <img src ="event2.png">
+        <h1>
+        <a href="https://www.flipkart.com/">fashion</a>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque, sed minima rerum eligendi voluptatem molestiae laboriosam. Unde, repellat, similique illo sit distinctio voluptatibus quia, modi porro a aperiam consectetur nulla!
+
+        </p></h1>
+        </center>
+        <hr>
+        <center>
+        <h1>contact</h1>
+        <h2>mobile number :9787888000</h2>
+        <h3>address 532 ggggggggggg</h3>
+        </center>
+    </body>
+</html>
